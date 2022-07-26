@@ -1,0 +1,34 @@
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.deps.json
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.dll
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/ref/OktaDemoRecreate.dll
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.pdb
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.csproj.AssemblyReference.cache
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/Views/ProfilePage.xaml.g.cs
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.AssemblyInfoInputs.cache
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.AssemblyInfo.cs
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.csproj.CoreCompileInputs.cache
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.dll
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/ref/OktaDemoRecreate.dll
+/Users/Omar/Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.pdb
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.deps.json
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.dll
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/ref/OktaDemoRecreate.dll
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/bin/Debug/netstandard2.0/OktaDemoRecreate.pdb
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.csproj.AssemblyReference.cache
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/Views/ProfilePage.xaml.g.cs
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.AssemblyInfoInputs.cache
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.AssemblyInfo.cs
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.csproj.CoreCompileInputs.cache
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.dll
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/ref/OktaDemoRecreate.dll
+/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate/obj/Debug/netstandard2.0/OktaDemoRecreate.pdb

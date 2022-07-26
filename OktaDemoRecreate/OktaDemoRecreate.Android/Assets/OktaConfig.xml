@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Okta>
+    <ClientId>0oa4tymt5e8TIiWQR5d7</ClientId>
+    <OktaDomain>https://thinkforum.okta.com</OktaDomain>
+    <RedirectUri>com.okta.xamarin.android.login:/callback</RedirectUri>
+    <PostLogoutRedirectUri>com.okta.xamarin.android.logout:/callback</PostLogoutRedirectUri>
+    <Scope>openid profile email offline_access</Scope>
+</Okta>

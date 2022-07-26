@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{E9C05967-D413-4B4E-A64A-73CCF65AEC76}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.19081FDF600E4N" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OktaDemoRecreate/OktaDemoRecreate.Android/Assets/OktaConfig.xml">
+    <Files>
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate.Android/OktaCallbackActivity.cs" Line="9" Column="64" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/ViewModels/AboutViewModel.cs" Line="14" Column="79" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate.Android/MainActivity.cs" Line="21" Column="80" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/AppShell.xaml" Line="42" Column="91" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/Views/AboutPage.xaml" Line="39" Column="53" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/Views/ProfilePage.xaml" Line="19" Column="39" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/Views/ProfilePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate/ViewModels/ProfileViewModel.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1489" Column="3" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate.Android/OktaDemoRecreate.Android.csproj" Line="2" Column="26" />
+      <File FileName="OktaDemoRecreate/OktaDemoRecreate.Android/Assets/OktaConfig.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OktaDemoRecreate" expanded="True">
+            <Node name="OktaDemoRecreate" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="OktaDemoRecreate.Android" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="OktaConfig.xml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="OktaDemoRecreate.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OktaDemoRecreate.Android PreferredExecutionTarget="Android.19081FDF600E4N" />
+</Properties>

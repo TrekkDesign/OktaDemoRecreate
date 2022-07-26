@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaaEr44BjlkIse76UCOzIszqfGxE6gQAYoL9MdQzk/vliyrtj3qCe/sVqT/N8EpGB1xP6nNq0VP/1Vs6+f3+6g==",
+  "success": true,
+  "projectFilePath": "/Users/Omar/Files/Xamarin Projects/OktaDemoRecreate/OktaDemoRecreate/OktaDemoRecreate.iOS/OktaDemoRecreate.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Omar/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/okta.xamarin/3.1.0/okta.xamarin.3.1.0.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/okta.xamarin.ios/3.1.0/okta.xamarin.ios.3.1.0.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/system.net.http/4.3.4/system.net.http.4.3.4.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/Omar/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

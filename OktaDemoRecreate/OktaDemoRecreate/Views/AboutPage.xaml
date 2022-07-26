@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OktaDemoRecreate.Views.AboutPage"
+             xmlns:vm="clr-namespace:OktaDemoRecreate.ViewModels"
+             x:DataType="vm:AboutViewModel"
+             BackgroundColor="White">
+    
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Text="Sign In"
+                TextColor="White"
+                FontSize="Medium"
+                BackgroundColor="Black"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="150"
+                Command="{Binding SignInCommand}"/>
+        <Button Text="Profile Page"
+                TextColor="White"
+                FontSize="Medium"
+                BackgroundColor="Black"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="150"
+                Command="{Binding GoToProfileCommand}"
+                Grid.Column="1"/>
+    </Grid>
+
+</ContentPage>
+
