@@ -6,7 +6,7 @@ using Okta.Xamarin.Android;
 
 namespace OktaDemoRecreate.Droid
 {
-    [Activity(Label = "OktaCallbackActivity", NoHistory = true, LaunchMode = LaunchMode.SingleInstance)]
+    [Activity(Label = "OktaCallbackActivity", Exported = false, NoHistory = true, LaunchMode = LaunchMode.SingleInstance)]
     [
         IntentFilter
         (
